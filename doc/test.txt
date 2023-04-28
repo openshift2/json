@@ -1,0 +1,99 @@
+commit 36552f0c94e4b06cdb697c6ee186a5bc33724314
+Author: Dmitry Arkhipov <grisumbras@gmail.com>
+Date:   Sat Nov 5 20:12:40 2022 +0300
+
+    remove namespace macros
+
+commit 9403530b598b271be004597a1d6bb7755ecf09dd
+Author: Dmitry Arkhipov <grisumbras@gmail.com>
+Date:   Mon Apr 5 08:38:41 2021 +0300
+
+    Use Docca jam module
+
+commit e004c583863fd480712e9dfdf08e83e1d83f4c6f
+Author: Evan Lenz <evan@evanlenz.net>
+Date:   Wed Feb 17 16:30:24 2021 -0800
+
+    Replace sed-based customization with XSLT import
+    
+    fix boostorg/docca#40
+
+commit 176cb8b82fb3250ea866db3fc7377f1dac5e2aab
+Author: Vinnie Falco <vinnie.falco@gmail.com>
+Date:   Sun Oct 4 10:20:46 2020 -0700
+
+    Remove unused Jamfile variable
+
+commit aaf5a22eaaa3965c12f2e418a46751e551e2dbe7
+Author: Vinnie Falco <vinnie.falco@gmail.com>
+Date:   Sun Oct 4 10:14:09 2020 -0700
+
+    Update doc Jamfile
+
+commit c73fbc03d5cefaae184b8a6ccad46562edf4917d
+Author: Vinnie Falco <vinnie.falco@gmail.com>
+Date:   Sun Oct 4 09:09:17 2020 -0700
+
+    Update doc Jamfile for superproject
+
+commit a4d2983c4f1ce279205bf540d6abf2bd7344220f
+Author: Vinnie Falco <vinnie.falco@gmail.com>
+Date:   Sat Oct 3 09:20:38 2020 -0700
+
+    Doc work
+
+commit 904252de0b19e4ce2b77e14ed250aea3dc6f861d
+Author: Krystian Stasiowski <sdkrystian@gmail.com>
+Date:   Wed Jul 1 00:06:05 2020 -0400
+
+    Fix repo links
+    
+    close #123
+
+commit 16d488bbf4deaf93b8b057d1e32245a810e2ce3b
+Author: sdarwin <samuel.d.darwin@gmail.com>
+Date:   Wed May 13 14:02:14 2020 +0000
+
+    update Jamfile
+
+commit 0346f55e256e43e2724bb69054482a638bb9a74b
+Author: Vinnie Falco <vinnie.falco@gmail.com>
+Date:   Sat Dec 7 13:12:27 2019 -0800
+
+    Use superproject docca
+
+commit da35265ecdbb00e97bef7b31fb8089cf6340b5a2
+Author: Vinnie Falco <vinnie.falco@gmail.com>
+Date:   Fri Nov 22 17:43:02 2019 -0800
+
+    Add doc snippets
+
+commit 04fe8c2ba8c3414e51a44017638688063e1caced
+Author: Vinnie Falco <vinnie.falco@gmail.com>
+Date:   Fri Nov 22 07:56:13 2019 -0800
+
+    Use new docca
+
+commit 62ad5a296d2c3666639da0090b7c03168f76575e
+Author: Vinnie Falco <vinnie.falco@gmail.com>
+Date:   Wed Nov 20 16:04:33 2019 -0800
+
+    Charts
+
+commit 8f1348ed40f5a6566dda723a17be8fcf8abb3733
+Author: Vinnie Falco <vinnie.falco@gmail.com>
+Date:   Fri Nov 15 11:40:32 2019 -0800
+
+    Add examples
+
+commit e73d4886ea69a9f7e2b7281d415e50f66af5fba4
+Author: Vinnie Falco <vinnie.falco@gmail.com>
+Date:   Mon Oct 21 16:47:20 2019 -0700
+
+    doc work
+
+commit b5d86c6b0e9574841f42cc5d25a8fb139379e2db
+Author: Vinnie Falco <vinnie.falco@gmail.com>
+Date:   Sat Sep 21 08:07:18 2019 -0700
+
+    Add doc directory and docca submodule
